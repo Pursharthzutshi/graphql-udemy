@@ -1,0 +1,10 @@
+        // const userExists = users.findIndex((users)=>{
+        //     return users.id === args.id
+        // })
+
+        // if(userExists === -1){
+        //     throw new Error("user not found")
+        // }
+        // const deletedUsers = users.splice(userExists,1)
+
+        // return deletedUsers[0]
